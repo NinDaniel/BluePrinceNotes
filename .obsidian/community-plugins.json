@@ -3,5 +3,6 @@
   "table-editor-obsidian",
   "templater-obsidian",
   "pretty-properties",
-  "multi-properties"
+  "multi-properties",
+  "obsidian-git"
 ]
