@@ -1,0 +1,77 @@
+filters:
+  and:
+    - file.inFolder("Rooms and Areas")
+    - '!file.name.contains("rooms")'
+    - file.name != "desktop.ini"
+views:
+  - type: cards
+    name: Home
+    order:
+      - file.name
+    sort: []
+    image: note.cover
+    cardSize: 120
+  - type: cards
+    name: Blue
+    filters:
+      and:
+        - file.inFolder("Rooms and Areas")
+        - Colour.contains("Blue")
+    image: note.cover
+    cardSize: 120
+  - type: cards
+    name: Orange
+    filters:
+      and:
+        - file.inFolder("Rooms and Areas")
+        - Colour.contains("Orange")
+    image: note.cover
+    cardSize: 120
+  - type: cards
+    name: Red
+    filters:
+      and:
+        - file.inFolder("Rooms and Areas")
+        - Colour.contains("Red")
+    image: note.cover
+    cardSize: 120
+  - type: cards
+    name: Green
+    filters:
+      and:
+        - file.inFolder("Rooms and Areas")
+        - Colour.contains("Green")
+    image: note.cover
+    cardSize: 120
+  - type: cards
+    name: Yellow
+    filters:
+      and:
+        - file.inFolder("Rooms and Areas")
+        - Colour.contains("Yellow")
+    image: note.cover
+    cardSize: 120
+  - type: cards
+    name: Black
+    filters:
+      and:
+        - file.inFolder("Rooms and Areas")
+        - Colour.contains("Black")
+    image: note.cover
+    cardSize: 120
+  - type: cards
+    name: Purple
+    filters:
+      and:
+        - file.inFolder("Rooms and Areas")
+        - Colour.contains("Purple")
+    image: note.cover
+    cardSize: 120
+  - type: cards
+    name: Vented
+    filters:
+      and:
+        - file.inFolder("Rooms and Areas")
+        - vented == true
+    image: note.cover
+    cardSize: 120

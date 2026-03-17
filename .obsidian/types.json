@@ -1,0 +1,16 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Status": "text",
+    "cost": "number",
+    "Colour": "multitext",
+    "exits": "number",
+    "upgraded": "checkbox",
+    "addition": "checkbox",
+    "vented": "checkbox",
+    "outer": "checkbox",
+    "date_made": "date"
+  }
+}

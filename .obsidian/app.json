@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Attachments",
+  "readableLineLength": false,
+  "propertiesInDocument": "visible",
+  "userIgnoreFilters": [
+    "**/desktop.ini"
+  ]
+}

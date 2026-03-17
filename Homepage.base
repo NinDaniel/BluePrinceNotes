@@ -1,0 +1,12 @@
+filters:
+  and:
+    - '!file.inFolder("Attachments")'
+    - '!file.inFolder("Templates")'
+    - file.name != "desktop.ini"
+views:
+  - type: cards
+    name: Home
+    order:
+      - file.name
+    image: note.cover
+    cardSize: 90

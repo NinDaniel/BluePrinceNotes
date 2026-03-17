@@ -1,0 +1,24 @@
+# Windows system files
+**/desktop.ini
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# Obsidian workspace state (personal - each person keeps their own)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian appearance (personal - each person picks their own theme)
+.obsidian/appearance.json
+.obsidian/themes/
+.obsidian/snippets/
+
+# Plugin personal settings (personal - each person configures their own)
+.obsidian/plugins/*/data.json
+
+# Old github-sync plugin (replaced by obsidian-git)
+.obsidian/plugins/github-sync/
+
+# Obsidian trash
+.trash/

@@ -1,0 +1,11 @@
+filters:
+  and:
+    - file.inFolder("Characters")
+    - file.name != "desktop.ini"
+views:
+  - type: cards
+    name: Home
+    order:
+      - file.name
+      - Role
+      - Status
