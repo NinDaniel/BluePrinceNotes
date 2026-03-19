@@ -12,3 +12,5 @@ colour: "[[Blue Rooms|Blue]]"
 # Secrets
 
 `Place documents and clues here. Additionally, place any other secret items, puzzles, and the like in this section, too.`
+
+## Safe?

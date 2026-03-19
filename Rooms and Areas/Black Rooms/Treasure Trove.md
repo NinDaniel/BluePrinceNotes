@@ -24,3 +24,8 @@ exits: 2
 > [!QUOTE] Box #4
 > \[Red Handwritten]
 > The previous box in this room contained a true statement
+
+> [!QUOTE] Box #5
+> \[Green Typed - White Scented Box]
+> Two realms have the same colour banner.
+

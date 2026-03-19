@@ -22,5 +22,5 @@ colour: "[[Blue Rooms|Blue]]"
 | [[Shovel]]         | [[Compass]]             |                  | [[Dowsing Rod]]          |
 | [[Shovel]]         | [[Metal Detector]]      |                  | [[Detector Shovel]]      |
 | [[Metal Detector]] | [[Magnifying Glass]]    |                  | [[Burning Glass]]        |
-| [[Metal Detector]] | [[Lockpick Kit]]        |                  | [[Lock Sound Amplifier]] |
+| [[Metal Detector]] | [[Lockpick Kit]]        |                  | [[Pick Sound Amplifier]] |
 | [[Coin Purse]]     | [[Lucky Rabbit's Foot]] |                  | [[Lucky Purse]]          |

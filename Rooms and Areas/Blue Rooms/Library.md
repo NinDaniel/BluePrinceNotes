@@ -11,8 +11,8 @@ colour: "[[Blue Rooms|Blue]]"
 `Place notes on how to use this room for gameplay here`
 # Secrets
 
-[[Red Prince]] - Page 4 Word 1 - 
-[[Realm & Rune]] - Page 6 Word 4 - 
+[[Red Prince]] - Page 4 Word 1 - He
+[[Realm & Rune]] - Page 6 Word 4 - Routes
 [[A New Clue]] - Page 5 Word 2 - Looked
 [[The Fixed Stars]] - Page 3 Word 1 - North
 

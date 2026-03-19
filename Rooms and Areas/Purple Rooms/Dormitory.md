@@ -1,19 +1,16 @@
 ---
-cover: https://static.wikia.nocookie.net/blue-prince/images/3/33/Freezer_Icon.png/revision/latest?cb=20250418211330
+cover: https://blueprince.wiki.gg/images/thumb/Dormitory.png/300px-Dormitory.png?8ee3c4
 cost: 0
-rarity: Rare
-type: Tomorrow
+colour:
+  - "[[Purple Rooms|Purple]]"
+rarity: Standard
+type: Entry
 exits: 1
-colour: "[[Blue Rooms|Blue]]"
+addition: true
 ---
 # Gameplay
 
 `Place notes on how to use this room for gameplay here`
-
-[[Sauna]]
-[[Furnace]]
 # Secrets
 
 `Place documents and clues here. Additionally, place any other secret items, puzzles, and the like in this section, too.`
-
-[[Power Slammer]]

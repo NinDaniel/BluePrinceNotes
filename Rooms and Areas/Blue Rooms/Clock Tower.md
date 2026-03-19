@@ -14,3 +14,12 @@ addition: true
 # Secrets
 
 `Place documents and clues here. Additionally, place any other secret items, puzzles, and the like in this section, too.`
+
+> [!QUOTE] Clock Tower Note
+> Southward I see a swan,
+> Ashen like sands of the shore,
+> Carried by westwardly winds,
+> Rogue like the moon of the north.
+> Eastward I see a crow,
+> Dark are the days coming fourth.
+
