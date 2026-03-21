@@ -1,10 +1,13 @@
 ---
-cover: https://static.wikia.nocookie.net/blue-prince/images/f/fb/Billiard_Room_Icon.png/revision/latest?cb=20250418211238
+cover: https://blueprince.wiki.gg/images/thumb/BilliardRoomBreakRoomUpgradeIcon.png/200px-BilliardRoomBreakRoomUpgradeIcon.png?125b30
 cost: 0
 rarity: Common
 type: Puzzle
 exits: 2
 colour: "[[Blue Rooms|Blue]]"
+aliases:
+  - Break Room
+upgraded: true
 ---
 # Gameplay
 

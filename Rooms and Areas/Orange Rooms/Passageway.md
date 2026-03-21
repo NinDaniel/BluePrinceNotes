@@ -1,11 +1,12 @@
 ---
 cover: https://static.wikia.nocookie.net/blue-prince/images/1/14/Passageway_Icon.png/revision/latest?cb=20250418211426
-cost: 2
+cost: 0
 rarity: Common
 type:
 exits: 4
 vented: true
 colour: "[[Orange Rooms|Orange]]"
+axed: true
 ---
 # Gameplay
 

@@ -1,10 +1,11 @@
 ---
 cover: https://static.wikia.nocookie.net/blue-prince/images/0/05/Trophy_Room_Icon.png/revision/latest?cb=20250418211522
-cost: 5
+cost: 0
 rarity: Rare
 type: Item
 exits: 2
 colour: "[[Blue Rooms|Blue]]"
+axed: true
 ---
 # Gameplay
 

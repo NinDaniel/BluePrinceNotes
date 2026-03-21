@@ -45,6 +45,7 @@ In addition to minor keys—which simply open locked objects in the manor—ther
 * [[Master Key]]
 * [[Hallpass]]
 * [[Telescope]]
+* [[Moon Pendant]]
 ## Crafted
 Some items can only be crafted using the [[Workshop]]'s crafting bench.
 

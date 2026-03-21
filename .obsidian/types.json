@@ -11,6 +11,7 @@
     "addition": "checkbox",
     "vented": "checkbox",
     "outer": "checkbox",
-    "date_made": "date"
+    "date_made": "date",
+    "axed": "checkbox"
   }
 }

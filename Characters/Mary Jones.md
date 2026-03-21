@@ -3,6 +3,7 @@ aliases:
   - Marion Marigold
   - Mary Epsen
   - Samantha Hayes
+  - Grey Daniels
 status: Unknown
 role:
 alignment:

@@ -16,6 +16,7 @@ Hidden around the manor are chess pieces within given rooms. These chess pieces 
 | Black Pawn    | [[Solarium]]               |
 | Knight        | [[Observation]]            |
 | Knight        | [[Security]]               |
+| Knight        | [[The Armory]]             |
 | Black Knight  | [[Treasure Trove]]         |
 | Bishop        | [[Chapel]]                 |
 | Black Bishop  | [[Rumpus Room]]            |

@@ -6,6 +6,7 @@ type:
 exits: 4
 colour:
   - "[[Red Rooms|Red]]"
+vented: true
 ---
 # Gameplay
 
