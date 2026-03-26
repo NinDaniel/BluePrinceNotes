@@ -4,6 +4,7 @@ aliases:
   - Mary Epsen
   - Samantha Hayes
   - Grey Daniels
+  - Jean Ribbon
 status: Unknown
 role:
 alignment:

@@ -5,6 +5,7 @@ rarity: Unusual
 type: Item
 exits: 1
 colour: "[[Blue Rooms|Blue]]"
+vented: true
 ---
 # Gameplay
 

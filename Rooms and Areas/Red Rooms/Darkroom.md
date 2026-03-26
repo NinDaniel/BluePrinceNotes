@@ -5,6 +5,7 @@ rarity: Standard
 type:
 exits: 3
 colour: "[[Red Rooms|Red]]"
+vented: true
 ---
 # Gameplay
 

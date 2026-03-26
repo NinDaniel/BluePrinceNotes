@@ -15,8 +15,13 @@ colour: "[[Yellow Rooms|Yellow]]"
 `Place documents and clues here. Additionally, place any other secret items, puzzles, and the like in this section, too.`
 
 # Inventory
-- [[Emerald Bracelet]]
-- [[Ornate Compass]]
-- [[Chronograph]]
-- [[Silver Spoon]]
-- [[Master Key]]
+
+| Item                 | Cost |
+| -------------------- | ---- |
+| [[Emerald Bracelet]] | 60   |
+| [[Ornate Compass]]   | 50   |
+| [[Chronograph]]      | 30   |
+| [[Silver Spoon]]     | 30   |
+| [[Master Key]]<br>   | 80   |
+| [[Moon Pendant]]     | 20   |
+| [[Silver Spoon]]     | 30   |

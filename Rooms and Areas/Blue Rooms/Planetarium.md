@@ -1,11 +1,12 @@
 ---
-cover: https://static.wikia.nocookie.net/blue-prince/images/e/e5/Nursery_Icon.png/revision/latest?cb=20250418211416
-cost: 1
+cover:
+cost: 0
+colour:
+  - "[[Blue Rooms|Blue]]"
 rarity: Standard
-type: Drafting
+type: Tomorrow
 exits: 1
-colour: "[[Purple Rooms|Purple]]"
-upgraded: true
+addition: true
 ---
 # Gameplay
 
