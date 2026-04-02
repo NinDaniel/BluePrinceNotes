@@ -1,14 +1,10 @@
 ---
-cover: https://blueprince.wiki.gg/images/CloisterDraxusUpgradeIcon.png
-cost: 0
-rarity: Unusual
-type:
-exits: 4
+cover:
+cost:
 colour:
-  - "[[Red Rooms|Red]]"
-aliases:
-  - Cloister of Draxus
-axed: true
+rarity:
+type:
+exits:
 ---
 # Gameplay
 

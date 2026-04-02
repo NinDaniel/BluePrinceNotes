@@ -29,3 +29,15 @@ exits: 2
 > \[Green Typed - White Scented Box]
 > Two realms have the same colour banner.
 
+> [!QUOTE] Box #6
+> [Green Typed - Black Moon Box]
+> Boxes marked with moon always contain false statements
+
+> [!QUOTE] Box #7
+> [Red Typed - White Scented Box]
+> The true treasure of the trove is not in this room.
+
+> [!QUOTE] Box #8
+> [Blue Typed - Black Sun Box]
+> All boxes marked by Sun contain memos that are true.
+

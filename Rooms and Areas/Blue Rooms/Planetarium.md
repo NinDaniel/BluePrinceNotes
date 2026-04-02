@@ -1,5 +1,5 @@
 ---
-cover:
+cover: https://blueprince.wiki.gg/images/Planetarium.png
 cost: 0
 colour:
   - "[[Blue Rooms|Blue]]"

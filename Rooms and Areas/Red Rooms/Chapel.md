@@ -14,7 +14,7 @@ colour: "[[Red Rooms|Red]]"
 
 `Place documents and clues here. Additionally, place any other secret items, puzzles, and the like in this section, too.`
 
-## Rynna — Hoe Farmer
+## Rynna — Hoe Farmer 
 
 ![[Pasted image 20260305164632.png|156]]
 
@@ -34,7 +34,7 @@ colour: "[[Red Rooms|Red]]"
 
 ![[Pasted image 20260305165042.png|180]]
 
-# Danja — Jockey
+# Dauja — Jockey
 
 ![[Pasted image 20260305165134.png|182]]
 

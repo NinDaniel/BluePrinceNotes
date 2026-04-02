@@ -18,8 +18,9 @@ colour:
 
 # Inventory
 
-| Item                | Cost |
-| ------------------- | ---- |
-| [[Morning Star]]    | 8    |
-| [[The Axe]]         | 32   |
-| [[Knight's Shield]] | 8    |
+| Item                    | Cost |
+| ----------------------- | ---- |
+| [[Morning Star]]        | 8    |
+| [[The Axe]]             | 32   |
+| [[Knight's Shield]]     | 8    |
+| [[Self Igniting Torch]] | 8    |
