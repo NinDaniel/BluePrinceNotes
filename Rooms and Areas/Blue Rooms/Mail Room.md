@@ -38,3 +38,36 @@ colour: "[[Blue Rooms|Blue]]"
 > [!QUOTE] Randolph Explains Security Doors
 > Hey [[Simon P. Jones|Simon]],
 
+> [!Quote] Randolph Explains Gas
+> [[Simon P. Jones|Simon]],
+
+> [!Quote] Randolph Explains the V.A.C.
+> [[Simon P. Jones|Simon]],
+
+> [!quote] Randolph Discloses Drafting Strategies Locations
+> Greetings [[Simon P. Jones|Simon]],
+
+> [!Quote] Randolph Discloses Staff Names
+> [[Simon P. Jones|Simon]],
+> If I'm going to be mentioning members of the staff, perhaps I should give you a brief introduction,
+> 
+> [[Anne Babbage|Mrs. Anne Babbage]] - House Manager, My Boss
+> [[Kirk Darren]] - Head of Security
+> [[Randolph Moore]] - Lead Lab Technician, Network Admin, Humber author of these letters
+> [[Kimberly Thompson]] - Lab Assistant and helpful sidekick
+> [[Chef DeCamp]] - Head of Kitchen, maker of tasty meals
+> [[Hartley Ruota]] - The Baron's Personal Valet (retiring)
+> [[Christoph]] - The Chauffer
+> [[Robert Nogula]] - The New Groundskeeper
+> 
+> There are a handful of other names among the various live-out and seasonal service staff, but due to their infrequent mention, I thought it best to omit them from this cursory introduction.
+> 
+> \- [[Randolph Moore|Randolph]]
+
+> [!Quote] Randolph Explains the Weight Room
+> Another successful experiment, another letter.
+
+
+
+
+

@@ -41,3 +41,11 @@ exits: 2
 > [Blue Typed - Black Sun Box]
 > All boxes marked by Sun contain memos that are true.
 
+> [!QUOTE] Box #9
+> [Green Typed - Blue Moon Box]
+> Pink boxes with Moon always contain false statements.
+
+> [!Quote] Box #10
+> [Green Written - Pink Moon Box]
+> There is no realm that flies the white flag.
+
