@@ -17,3 +17,4 @@ colour: "[[Blue Rooms|Blue]]"
 [[Secret Garden]]
 [[Greenhouse]]
 [[Room 46]]
+[[Mechanarium]]

@@ -67,7 +67,40 @@ colour: "[[Blue Rooms|Blue]]"
 > [!Quote] Randolph Explains the Weight Room
 > Another successful experiment, another letter.
 
+> [!quote] Randolph Gets Kirk Involved
+> Dear [[Simon P. Jones|Simon]],
+> 
+> BLAH BLAH BLAH
+> 
+> Unused Memos:
+> [Red Typed]
+> Safe Code 4368
+> 
+> [Blue Typed]
+> The numbers 6,7, and 9 do not appear in any of the fixed combinations of safes on the estate.
+> 
+> [Red Typed]
+> Safe Code: 1213
+> 
+> [Red Written]
+> Safe Code D8
+> 
+> [Green Typed]
+> There is a safe on Rank 10
 
+> [!Quote] Randolph Grants us Admin
+> [[Simon P. Jones|Simon]],
 
+> [!Quote] Randolph Explains the Circular Blackbridge Door
+> [[Simon P. Jones|Simon]],
+> 
+> If you do end up accessing the Admin controls in [[Blackbridge Grotto]], I'm sure you noticed the sealed circular door to the left of the terminal. As you likely have already concluded for yourself, this door can only be opened if three different microchips are inserted in the central pedestal.
+> 
+> Normally, all three microchips are kept secured in three other locations, but I decided to make it easy for you and have left one of the microchips in the grotto for ready access. However, you will have to find *a new clue* or two to find the others.
+> 
+> [Image of hammer]
+> \-[[Randolph Moore|Randolph]]
 
+> [!quote] Randolph Gives Up
+> [[Simon P. Jones|Simon]],
 

@@ -49,3 +49,7 @@ exits: 2
 > [Green Written - Pink Moon Box]
 > There is no realm that flies the white flag.
 
+> [!QUOTE] Box #11
+> [Red Typed - Pink Scented Box]
+> The previous box in this room contained a true statement
+
