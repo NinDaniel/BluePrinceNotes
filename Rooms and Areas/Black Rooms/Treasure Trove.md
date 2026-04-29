@@ -12,44 +12,50 @@ exits: 2
 `Place notes on how to use this room for gameplay here`
 # Secrets
 > [!QUOTE] Box #1
+> [White Moon Box - Green Typed]
 > Notes found in the treasure trove are always true
 
 > [!QUOTE] Box #2
-> who knows
+> [Blue Moon Box - Blue Typed]
+> Green memos in white boxes are always lies
 
 > [!QUOTE] Box #3
-> \[Blue Typed]
+> [Blue Sun Box - Green Typed]
 > The true secret is not in the treasure trove
 
 > [!QUOTE] Box #4
-> \[Red Handwritten]
+> \[White Scented Box - Red Handwritten]
 > The previous box in this room contained a true statement
 
 > [!QUOTE] Box #5
-> \[Green Typed - White Scented Box]
+> \[White Scented Box - Green Typed]
 > Two realms have the same colour banner.
 
 > [!QUOTE] Box #6
-> [Green Typed - Black Moon Box]
+> [Black Moon Box - Green Typed]
 > Boxes marked with moon always contain false statements
 
 > [!QUOTE] Box #7
-> [Red Typed - White Scented Box]
+> [White Scented Box - Red Typed]
 > The true treasure of the trove is not in this room.
 
 > [!QUOTE] Box #8
-> [Blue Typed - Black Sun Box]
+> [Black Sun Box - Blue Typed]
 > All boxes marked by Sun contain memos that are true.
 
 > [!QUOTE] Box #9
-> [Green Typed - Blue Moon Box]
+> [Blue Moon Box - Green Typed]
 > Pink boxes with Moon always contain false statements.
 
 > [!Quote] Box #10
-> [Green Written - Pink Moon Box]
+> [Pink Moon Box - Green Written]
 > There is no realm that flies the white flag.
 
 > [!QUOTE] Box #11
-> [Red Typed - Pink Scented Box]
+> [Pink Scented Box - Red Typed]
 > The previous box in this room contained a true statement
+
+> [!quote] Box #12
+> [Black Sun Box - Green Typed]
+> You will need a key to obtain the true treasure of the trove
 

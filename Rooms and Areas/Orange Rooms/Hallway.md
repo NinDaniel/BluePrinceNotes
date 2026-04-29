@@ -4,7 +4,7 @@ cost: 0
 rarity: Common
 type:
 exits: 3
-upgraded: false
+upgraded: true
 colour: "[[Orange Rooms|Orange]]"
 ---
 # Gameplay
