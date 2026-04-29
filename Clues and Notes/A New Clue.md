@@ -28,6 +28,21 @@
 > Dead End on Major Key 
 > X→Y→Z→A→B→_C_
 
+> [!quote] Suspect
+> [Red Typed]
+> The suspect is miner
+>
+>[Blue Typed]
+>The suspect is minor
+>
+>[Red Written]
+>The suspect is major
+>
+>[Written on diagram of computers]
+>the suspect is A. key
+>
+>ma|jor = small name
+ 
 > [!QUOTE] Signs
 > Route 8
 > Depart
