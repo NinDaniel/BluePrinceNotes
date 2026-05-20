@@ -59,3 +59,11 @@ exits: 2
 > [Black Sun Box - Green Typed]
 > You will need a key to obtain the true treasure of the trove
 
+> [!quote] Box #13
+> [Blue Moon Box - Blue Typed]
+> Blue boxes marked by scented contain false statements.
+
+> [!quote] Box #14
+> [White Scented Box - Red Typed]
+> Green memos in blue boxes are sometimes false
+
