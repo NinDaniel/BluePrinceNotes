@@ -14,16 +14,16 @@ colour: "[[Blue Rooms|Blue]]"
 
 `Place documents and clues here. Additionally, place any other secret items, puzzles, and the like in this section, too.`
 
-# Grade 1 — Colours
+# Grade 1 — Colours — Blue
 * The flag in the room 
 
-# Grade 2 — Maths
+# Grade 2 — Maths — Yellow
 
 
-# Grade 3 — Sciences
+# Grade 3 — Sciences — Pink
 
 
-# Grade 4 — Geography
+# Grade 4 — Geography — Green
 ![[Grade5FennMap.png|342]]
 
 ## Orrsphere - 3rd Era Map
@@ -64,16 +64,16 @@ This names the planets. From closest to the sun to furthest they are:
 Circling Mora (or earth), there is a large moon called The Devoted Moon, and a lesser moon orbiting it called The Rogue Moon. The Devoted Moon's orbit around Mora has text reading "devoted orbit — 24 hours".
 ### The Three of Tides
 This depicts the *Three Isles of Orrsei*.
-# Grade 5 — Art
+# Grade 5 — Art — Red
 This classroom points out, ONCE MORE, that you should REALLY take a look at all the [[Paintings]] of the estate.
 
-# Grade 6 — History
+# Grade 6 — History — Purple
 
 
-# Grade 7 — Algebra
+# Grade 7 — Algebra — Brown
 
 
-# Grade 8 — Foreign Languages
+# Grade 8 — Foreign Languages — Black
 ![[Learn Erajan.png|420]]
 
 ![[Erajan Vocabulary.png|420]]
