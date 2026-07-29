@@ -65,5 +65,17 @@ exits: 2
 
 > [!quote] Box #14
 > [White Scented Box - Red Typed]
-> Green memos in blue boxes are sometimes false
+> Green memos in blue boxes are sometimes false.
+
+> [!QUOTE] Box #15
+> [Blue Moon Box - Green Typed]
+> Fenn Aries borders a poetic realm.
+
+> [!QUOTE] Box #16
+> [White Scented Box - Green Typed]
+> It never rains in Arch Aeries.
+
+> [!QUOTE] Box #17
+> [White Sun Box - Blue Typed]
+> Green memos in pink boxes are always false.
 

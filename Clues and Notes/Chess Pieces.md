@@ -29,3 +29,4 @@ Hidden around the manor are chess pieces within given rooms. These chess pieces 
 | Queen         | [[Her Ladyship's Chamber]] |
 | Black Queen   | [[Study]]                  |
 | King          | [[Office]]                 |
+| Black King    | [[Throne Room]]            |

@@ -11,4 +11,11 @@ exits:
 `Place notes on how to use this room for gameplay here`
 # Secrets
 
-`Place documents and clues here. Additionally, place any other secret items, puzzles, and the like in this section, too.`
+Users for the Blackbridge Grotto Terminal follow the pattern of last name 4 characters, first name 1 character, each capitalized. The known names are as follows:
+* MoorR
+* ThomK
+* BabbA
+* RuotH
+* RevaD
+* LeeB
+* 
