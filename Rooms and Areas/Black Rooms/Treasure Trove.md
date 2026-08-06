@@ -11,9 +11,6 @@ exits: 2
 
 `Place notes on how to use this room for gameplay here`
 # Secrets
-> [!QUOTE] Box #1
-> [White Moon Box - Green Typed]
-> Notes found in the treasure trove are always true
 
 > [!QUOTE] Box #2
 > [Blue Moon Box - Blue Typed]
@@ -79,3 +76,31 @@ exits: 2
 > [White Sun Box - Blue Typed]
 > Green memos in pink boxes are always false.
 
+> [!QUOTE] Box #18
+> [Pink Moon Box - Green Typed]
+> You have seen all the memos that appear in this room.
+
+
+| Box # | Box Type     | Note Type     | Note                                                          |
+| ----- | ------------ | ------------- | ------------------------------------------------------------- |
+| 1     | White Moon   | Green Typed   | Notes found in the treasure trove are always *true*           |
+| 2     |              |               |                                                               |
+| 3     |              |               |                                                               |
+| 4     |              |               |                                                               |
+| 5     |              |               |                                                               |
+| 6     |              |               |                                                               |
+| 7     |              |               |                                                               |
+| 8     |              |               |                                                               |
+| 9     |              |               |                                                               |
+| 10    |              |               |                                                               |
+| 11    |              |               |                                                               |
+| 12    |              |               |                                                               |
+| 13    |              |               |                                                               |
+| 14    |              |               |                                                               |
+| 15    |              |               |                                                               |
+| 16    |              |               |                                                               |
+| 17    |              |               |                                                               |
+| 18    |              |               |                                                               |
+| 19    | Blue Sun     | Blue Typed    | The next four boxes marked by moons contain false statements. |
+| 20    | Pink Scented | Green Written | Red memos in blue boxes are always *true*                     |
+|       |              |               |                                                               |

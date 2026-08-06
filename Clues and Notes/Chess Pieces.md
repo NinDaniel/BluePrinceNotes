@@ -12,6 +12,7 @@ Hidden around the manor are chess pieces within given rooms. These chess pieces 
 | Black Pawn    | [[Walk-in Closet]]         |
 | Black Pawn    | [[Parlor]]                 |
 | Black Pawn    | [[Dormitory]]              |
+| Black Pawn    | [[Lost and Found]]         |
 | 2 Black Pawns | [[Bunk Room]]              |
 | Black Pawn    | [[Solarium]]               |
 | Knight        | [[Observation]]            |

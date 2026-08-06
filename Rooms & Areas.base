@@ -6,6 +6,9 @@ filters:
 views:
   - type: cards
     name: Home
+    filters:
+      and:
+        - exits == 1
     order:
       - file.name
     sort: []
