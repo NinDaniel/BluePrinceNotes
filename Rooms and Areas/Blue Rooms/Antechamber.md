@@ -11,7 +11,15 @@ colour: "[[Blue Rooms|Blue]]"
 `Place notes on how to use this room for gameplay here`
 # Secrets
 
-`Place documents and clues here. Additionally, place any other secret items, puzzles, and the like in this section, too.`
+If you place Antechamber outside using Blessing of the Monk and open Room 46, you get the following message:
+
+> [!QUOTE] Shrine Message
+> STEADY IS THE SCEPTER
+> DEADLY IS THE STONE
+> HEAVY IS THE CROWN
+> READY IS THE THRONE
+> 
+> [image of evil coffin]
 
 [[Great Hall]]
 [[Secret Garden]]
