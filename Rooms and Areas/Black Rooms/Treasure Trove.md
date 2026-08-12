@@ -17,14 +17,14 @@ exits: 2
 | 1     | White Moon    | Green Typed   | Notes found in the treasure trove are always *true*                                                |
 | 2     | Blue Moon     | Blue Typed    | Green memos in white boxes are always lies.                                                        |
 | 3     | Blue Sun      | Green Typed   | The true secret is not in the treasure trove.                                                      |
-| 4     |               |               |                                                                                                    |
-| 5     | White Scent   | Red Written   | The previous box in this room contained a true statement.                                          |
-| 6     | White Scent   | Green Typed   | Two realms have the same colour banner.                                                            |
-| 7     | Black Moon    | Green Typed   | Boxes marked with moon always contain false statements.                                            |
-| 8     | White Scent   | Red Typed     | The true treasure of the trove is not in this room.                                                |
-| 9     | Black Sun     | Blue Typed    | All boxes marked by Sun contain memos that are true.                                               |
-| 10    | Blue Moon     | Green Typed   | Pink boxes with Moon always contain false statements.                                              |
-| 11    | Pink Moon     | Green Written | There is no realm that flies the white flag.                                                       |
+| 4     | White Scent   | Red Written   | The previous box in this room contained a true statement.                                          |
+| 5     | White Scent   | Green Typed   | Two realms have the same colour banner.                                                            |
+| 6     | Black Moon    | Green Typed   | Boxes marked with moon always contain false statements.                                            |
+| 7     | White Scent   | Red Typed     | The true treasure of the trove is not in this room.                                                |
+| 8     | Black Sun     | Blue Typed    | All boxes marked by Sun contain memos that are true.                                               |
+| 9     | Blue Moon     | Green Typed   | Pink boxes with Moon always contain false statements.                                              |
+| 10    | Pink Moon     | Green Written | There is no realm that flies the white flag.                                                       |
+| 11    | Pink Scent    | Red Typed     | The previous box in this room contained a true statement.                                          |
 | 12    | Black Sun     | Green Typed   | You will need a key to obtain the true treasure of the trove.                                      |
 | 13    | Blue Moon     | Blue Typed    | Blue boxes marked by scented contain false statements.                                             |
 | 14    | White Scent   | Red Typed     | Green memos in blue boxes are sometimes false.                                                     |
