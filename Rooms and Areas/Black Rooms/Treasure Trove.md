@@ -12,95 +12,30 @@ exits: 2
 `Place notes on how to use this room for gameplay here`
 # Secrets
 
-> [!QUOTE] Box #2
-> [Blue Moon Box - Blue Typed]
-> Green memos in white boxes are always lies
-
-> [!QUOTE] Box #3
-> [Blue Sun Box - Green Typed]
-> The true secret is not in the treasure trove
-
-> [!QUOTE] Box #4
-> \[White Scented Box - Red Handwritten]
-> The previous box in this room contained a true statement
-
-> [!QUOTE] Box #5
-> \[White Scented Box - Green Typed]
-> Two realms have the same colour banner.
-
-> [!QUOTE] Box #6
-> [Black Moon Box - Green Typed]
-> Boxes marked with moon always contain false statements
-
-> [!QUOTE] Box #7
-> [White Scented Box - Red Typed]
-> The true treasure of the trove is not in this room.
-
-> [!QUOTE] Box #8
-> [Black Sun Box - Blue Typed]
-> All boxes marked by Sun contain memos that are true.
-
-> [!QUOTE] Box #9
-> [Blue Moon Box - Green Typed]
-> Pink boxes with Moon always contain false statements.
-
-> [!Quote] Box #10
-> [Pink Moon Box - Green Written]
-> There is no realm that flies the white flag.
-
-> [!QUOTE] Box #11
-> [Pink Scented Box - Red Typed]
-> The previous box in this room contained a true statement
-
-> [!quote] Box #12
-> [Black Sun Box - Green Typed]
-> You will need a key to obtain the true treasure of the trove
-
-> [!quote] Box #13
-> [Blue Moon Box - Blue Typed]
-> Blue boxes marked by scented contain false statements.
-
-> [!quote] Box #14
-> [White Scented Box - Red Typed]
-> Green memos in blue boxes are sometimes false.
-
-> [!QUOTE] Box #15
-> [Blue Moon Box - Green Typed]
-> Fenn Aries borders a poetic realm.
-
-> [!QUOTE] Box #16
-> [White Scented Box - Green Typed]
-> It never rains in Arch Aeries.
-
-> [!QUOTE] Box #17
-> [White Sun Box - Blue Typed]
-> Green memos in pink boxes are always false.
-
-> [!QUOTE] Box #18
-> [Pink Moon Box - Green Typed]
-> You have seen all the memos that appear in this room.
-
-
-| Box # | Box Type     | Note Type     | Note                                                          |
-| ----- | ------------ | ------------- | ------------------------------------------------------------- |
-| 1     | White Moon   | Green Typed   | Notes found in the treasure trove are always *true*           |
-| 2     |              |               |                                                               |
-| 3     |              |               |                                                               |
-| 4     |              |               |                                                               |
-| 5     |              |               |                                                               |
-| 6     |              |               |                                                               |
-| 7     |              |               |                                                               |
-| 8     |              |               |                                                               |
-| 9     |              |               |                                                               |
-| 10    |              |               |                                                               |
-| 11    |              |               |                                                               |
-| 12    |              |               |                                                               |
-| 13    |              |               |                                                               |
-| 14    |              |               |                                                               |
-| 15    |              |               |                                                               |
-| 16    |              |               |                                                               |
-| 17    |              |               |                                                               |
-| 18    |              |               |                                                               |
-| 19    | Blue Sun     | Blue Typed    | The next four boxes marked by moons contain false statements. |
-| 20    | Pink Scented | Green Written | Red memos in blue boxes are always *true*                     |
-|       |              |               |                                                               |
+| Box # | Box Type      | Note Type     | Note                                                                                               |
+| ----- | ------------- | ------------- | -------------------------------------------------------------------------------------------------- |
+| 1     | White Moon    | Green Typed   | Notes found in the treasure trove are always *true*                                                |
+| 2     | Blue Moon     | Blue Typed    | Green memos in white boxes are always lies.                                                        |
+| 3     | Blue Sun      | Green Typed   | The true secret is not in the treasure trove.                                                      |
+| 4     |               |               |                                                                                                    |
+| 5     | White Scent   | Red Written   | The previous box in this room contained a true statement.                                          |
+| 6     | White Scent   | Green Typed   | Two realms have the same colour banner.                                                            |
+| 7     | Black Moon    | Green Typed   | Boxes marked with moon always contain false statements.                                            |
+| 8     | White Scent   | Red Typed     | The true treasure of the trove is not in this room.                                                |
+| 9     | Black Sun     | Blue Typed    | All boxes marked by Sun contain memos that are true.                                               |
+| 10    | Blue Moon     | Green Typed   | Pink boxes with Moon always contain false statements.                                              |
+| 11    | Pink Moon     | Green Written | There is no realm that flies the white flag.                                                       |
+| 12    | Black Sun     | Green Typed   | You will need a key to obtain the true treasure of the trove.                                      |
+| 13    | Blue Moon     | Blue Typed    | Blue boxes marked by scented contain false statements.                                             |
+| 14    | White Scent   | Red Typed     | Green memos in blue boxes are sometimes false.                                                     |
+| 15    | Blue Moon     | Green Typed   | Fenn Aries borders a poetic realm.                                                                 |
+| 16    | White Scented | Green Typed   | It never rains in Arch Aeries.                                                                     |
+| 17    | White Sun     | Blue Typed    | Green memos in pink boxes are always false.                                                        |
+| 18    | Pink Moon     | Green Typed   | You have seen all the memos that appear in this room.                                              |
+| 19    | Blue Sun      | Blue Typed    | The next four boxes marked by moons contain false statements.                                      |
+| 20    | Pink Scented  | Green Written | Red memos in blue boxes are always *true*                                                          |
+| 21    | Black Sun     | Blue Typed    | Handwritten green memos are always false, but would be true if you changed one colour in the text. |
+| 22    | White Scented | Green Written | The next three green memos you find in this room will all be true.                                 |
+| 23    | Black Moon    | Green Typed   | As you have always suspected, there is more to the den than meets the eye.                         |
+| 24    | Pink Scent    | Red Typed     | The previous box in this room contained a true statement                                           |
+|       |               |               |                                                                                                    |

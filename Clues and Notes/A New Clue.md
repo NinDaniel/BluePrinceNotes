@@ -49,15 +49,15 @@
 > 
 > 8→7→3→10→1→13
 > 
->[[Red Prince]] - Page 10 Word 8 - TURN
->[[Realm & Rune]] - Page 13 Word 10 - SCORCHED
->[[A New Clue]] - Page 1 Word 7 - SUNDIAL
->[[The Fixed Stars]] - Page 3 Word 8 - BASE
+> [[Red Prince]] - Page 10 Word 8 - TURN
+> [[Realm & Rune]] - Page 13 Word 10 - SCORCHED
+> [[A New Clue]] - Page 1 Word 7 - SUNDIAL
+> [[The Fixed Stars]] - Page 3 Word 8 - BASE
 > 
->[[Red Prince]] - Page 4 Word 1 - He
->[[Realm & Rune]] - Page 6 Word 4 - Routes
->[[A New Clue]] - Page 5 Word 2 - Looked
->[[The Fixed Stars]] - Page 3 Word 1 - North
+> [[Red Prince]] - Page 4 Word 1 - He
+> [[Realm & Rune]] - Page 6 Word 4 - Routes
+> [[A New Clue]] - Page 5 Word 2 - Looked
+> [[The Fixed Stars]] - Page 3 Word 1 - North
 
 > [!QUOTE] Spaces
 > All checked corner case rooms had a low case clue found in the rooms
