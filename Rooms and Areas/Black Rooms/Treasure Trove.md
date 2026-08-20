@@ -38,4 +38,6 @@ exits: 2
 | 22    | White Scented | Green Written | The next three green memos you find in this room will all be true.                                 |
 | 23    | Black Moon    | Green Typed   | As you have always suspected, there is more to the den than meets the eye.                         |
 | 24    | Pink Scent    | Red Typed     | The previous box in this room contained a true statement                                           |
-|       |               |               |                                                                                                    |
+| 25    | White Sun     | Blue Typed    | The symbol "infinity" is used to denote the unknown, death, and the number eight.                  |
+| 26    | White Moon    | Green Typed   | There are three memos with false statements in the clocktower.                                     |
+| 27    | Pink Scent    | Green Types   | The true treasure of the trove is in the house.                                                    |
