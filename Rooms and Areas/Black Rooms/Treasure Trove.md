@@ -11,6 +11,9 @@ exits: 2
 
 `Place notes on how to use this room for gameplay here`
 # Secrets
+Found in [[Reservoir]], a *Blue box with a Sun* has a *Green typed* note stating: "Green memos in blue boxes are always true".
+Found in [[Reservoir]], a *Pink box with a Sun* has a *Blue typed* note stating: "Green memos in white boxes are lies".
+Found in [[Reservoir]], a *Pink box with a Sun* has a *Blue typed* note stating: "All boxes marked by suns contain memos that are true".
 
 | Box # | Box Type      | Note Type     | Note                                                                                               |
 | ----- | ------------- | ------------- | -------------------------------------------------------------------------------------------------- |
@@ -41,3 +44,5 @@ exits: 2
 | 25    | White Sun     | Blue Typed    | The symbol "infinity" is used to denote the unknown, death, and the number eight.                  |
 | 26    | White Moon    | Green Typed   | There are three memos with false statements in the clocktower.                                     |
 | 27    | Pink Scent    | Green Types   | The true treasure of the trove is in the house.                                                    |
+| 28    | Pink Scent    | Red Typed     | No realm is considered spiritual.                                                                  |
+| 29    | White Moon    | Red Typed     | The last door of 8 is in the inner sanctum.                                                        |

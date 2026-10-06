@@ -11,4 +11,4 @@ colour: "[[Blue Rooms|Blue]]"
 `Place notes on how to use this room for gameplay here`
 # Secrets
 
-`Place documents and clues here. Additionally, place any other secret items, puzzles, and the like in this section, too.`
+As noted in [[Blue Tent Notes]], the numbers under the coat of arms are not one, but actually 4 numbers. The numbers are MCCXIII, which may also be referred as 1000, 200, 10, 3; or 1213. 

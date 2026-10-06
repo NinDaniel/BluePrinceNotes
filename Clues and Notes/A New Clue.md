@@ -90,3 +90,6 @@
 > On the way
 > 
 > The signs of this book refer to the map found in [[Royal Station]]. These are instructions on how to traverse the railway. If we record each stop as instructed we get the numbers "8-7-3-10-1-13" or otherwise stated as "Royal Station - Angel Tower - Aries Crossing - Tanner Fork - Oris Train Hall - Dead End".
+
+Clocks are set to ~6:08
+Eagle Painting is set to either ~2:50 or ~10:10

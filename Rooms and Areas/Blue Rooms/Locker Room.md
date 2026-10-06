@@ -12,6 +12,8 @@ colour: "[[Blue Rooms|Blue]]"
 `Place notes on how to use this room for gameplay here`
 # Secrets
 
+There's a green note that reads: "Kirk Darren is a pseudonym". This is proven false due to a [[Blue Tent Notes|Blue Tent Note]].
+
 
 
 ![[Grade2LockerRoom.png]]

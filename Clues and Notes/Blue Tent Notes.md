@@ -29,3 +29,16 @@
 | [[Dining Room]]               | There are 10 different dishes that can be served in this room.                                                                                                                                                                |
 | [[Music Room]]                | There is a Major Key hanging on a wall in the safehouse.                                                                                                                                                                      |
 | [[Rotunda]]                   | There are 4 different methods to rotate rooms.                                                                                                                                                                                |
+| [[The Kennel]]                | Sinclair's four canine companions are named carter, thoughtless, hot sauce, and drawbridge.                                                                                                                                   |
+| [[Study]]                     | The chess board in this room contains a portmanteau.                                                                                                                                                                          |
+| [[Attic]]                     | S.H.S was born three years after H.S.S.                                                                                                                                                                                       |
+| [[Ballroom]]                  | The majority of of gems found in the house are artificially produced.                                                                                                                                                         |
+| [[Security]]                  | Surveillance recordings can only be accessed via the terminal located in security.                                                                                                                                            |
+| [[Drafting Studio]]           | The full directory comprises 46 numbered rooms plus eight categories of eight rooms. 46 + *46 in a diamond*.                                                                                                                  |
+| [[Trophy Room]]               | There were a total of eight gems removed from the ruby crown of Orinda Aires.                                                                                                                                                 |
+| [[Locker Room]]               | The memo next to this is a lie.                                                                                                                                                                                               |
+| [[Wine Cellar]]               | The numerals below the coat of arms are four different numbers, not one.                                                                                                                                                      |
+
+^0510b5
+
+	
