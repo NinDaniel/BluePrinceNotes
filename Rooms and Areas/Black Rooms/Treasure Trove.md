@@ -46,3 +46,5 @@ Found in [[Reservoir]], a *Pink box with a Sun* has a *Blue typed* note stating:
 | 27    | Pink Scent    | Green Types   | The true treasure of the trove is in the house.                                                    |
 | 28    | Pink Scent    | Red Typed     | No realm is considered spiritual.                                                                  |
 | 29    | White Moon    | Red Typed     | The last door of 8 is in the inner sanctum.                                                        |
+| 30    | Pink Moon     | Green Typed   | There is an antechamber lever hidden in the drawing room.                                          |
+|       |               |               |                                                                                                    |

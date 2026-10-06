@@ -40,7 +40,7 @@ colour: "[[Blue Rooms|Blue]]"
 
 Between Corarica and Verra is *The Great Tress*. Eastward is *ajsei*. Southward is *seija*.
 ### The North Circle
-Nothing new?s
+Nothing new?
 ### The South Key
 There's an island 8 at the bottom of the Seija that connects all continents. It does not appear on the map itself but does in the south key. It connects [[Corarica]], [[Verra]], [[Nuance]], and [[Eraja]].
 ### Spiral of Stars
@@ -90,3 +90,7 @@ This classroom points out, ONCE MORE, that you should REALLY take a look at all 
 ![[Erajan Affix Pairings.png|420]]
 
 As found in [[A New Clue]], *Lor = Word* and *Jor = Name*.
+
+As found in the description for [[Rotunda]], the room's name translates to "clockwise room". In essence, *Rot = Clockwise* and *Unda = Room*.
+
+As found in the Grade 4 Classroom, *Rot* is seen rotating clockwise and *Tor* is seen counter-clockwise. Therefore, *Tor = Counter-clockwise*.

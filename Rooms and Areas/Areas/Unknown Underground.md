@@ -35,3 +35,6 @@ As seen in [[A New Clue]], there is a pattern on the sides of the grave that is 
 | T   |     |     |
 | L   |     |     |
 | E   | T   | T   |
+## Clock
+
+On the tomb clock there are four distinct notes. North is labelled as II (or 2), East is labelled as V (or 5), South is labelled as VIII (or 8), and West is labelled as XI (or 11). The [[Numeric Cores|Numeric Core]] of these numbers 81125 (the order of which was derived from the clock tower puzzle) is 39.
