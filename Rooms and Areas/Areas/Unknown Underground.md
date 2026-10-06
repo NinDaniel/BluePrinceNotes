@@ -22,3 +22,16 @@ Completing Mora Jai boxes reveals a few notes with the following poem:
 > A SULLEN CROSS AS FIVE STARS ALIGN
 > A PATIENT FIGURE A RECKONING GREAT
 > THE BLACK KEY IS LYING WITH THE LAST KING OF EIGHT
+
+## 3x6 Block
+
+As seen in [[A New Clue]], there is a pattern on the sides of the grave that is a 3x6 grid. You can find ways to fill the grid throughout the grounds.
+
+|     |     |     |
+| --- | --- | --- |
+| C   |     | X   |
+| A   |     |     |
+| S   |     |     |
+| T   |     |     |
+| L   |     |     |
+| E   | T   | T   |
