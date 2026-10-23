@@ -9,7 +9,7 @@ exits: 2
 ---
 # Gameplay
 
-`Place notes on how to use this room for gameplay here`
+Gets you INFINITE MONEY.
 # Secrets
 Found in [[Reservoir]], a *Blue box with a Sun* has a *Green typed* note stating: "Green memos in blue boxes are always true".
 Found in [[Reservoir]], a *Pink box with a Sun* has a *Blue typed* note stating: "Green memos in white boxes are lies".
@@ -47,4 +47,4 @@ Found in [[Reservoir]], a *Pink box with a Sun* has a *Blue typed* note stating:
 | 28    | Pink Scent    | Red Typed     | No realm is considered spiritual.                                                                  |
 | 29    | White Moon    | Red Typed     | The last door of 8 is in the inner sanctum.                                                        |
 | 30    | Pink Moon     | Green Typed   | There is an antechamber lever hidden in the drawing room.                                          |
-|       |               |               |                                                                                                    |
+| 31    | White Scented | Blue Typed    | The Baron began and ended his travels in the same realm.                                           |
