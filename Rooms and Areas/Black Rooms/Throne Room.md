@@ -1,11 +1,15 @@
 ---
-cover: https://blueprince.wiki.gg/images/thumb/ThroneRoom.png/300px-ThroneRoom.png?890cf3
+cover: https://blueprince.wiki.gg/images/ThroneBlueUpgradeIcon.png?a01430
 cost: 5
 colour:
   - "[[Black Rooms|Black]]"
+  - "[[Blue Rooms|Blue]]"
 rarity: Unusual
-type:
+type: Drafting
 exits: 3
+aliases:
+  - Throne of the Blue Prince
+addition: true
 ---
 # Gameplay
 

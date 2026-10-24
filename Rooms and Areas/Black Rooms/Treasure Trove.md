@@ -48,3 +48,5 @@ Found in [[Reservoir]], a *Pink box with a Sun* has a *Blue typed* note stating:
 | 29    | White Moon    | Red Typed     | The last door of 8 is in the inner sanctum.                                                        |
 | 30    | Pink Moon     | Green Typed   | There is an antechamber lever hidden in the drawing room.                                          |
 | 31    | White Scented | Blue Typed    | The Baron began and ended his travels in the same realm.                                           |
+| 32    | Black Moon    | Red Typed     | Nuance is known to be a peaceful realm.                                                            |
+| 33    | Blue Moon     | Red Written   | The sacred hour is not technically "on the hour".                                                  |

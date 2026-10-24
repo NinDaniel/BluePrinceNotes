@@ -43,4 +43,5 @@
 | [[Vault]]                     | The family core is unlocked only by the sum of its digits.                                                                                                                                                                    |
 | [[Walk-in Closet]]            | Her Ladyship [[Clara Epsen]] was laid to rest on the 11th of June, 1983.                                                                                                                                                      |
 | [[Wine Cellar]]               | The numerals below the coat of arms are four different numbers, not one.                                                                                                                                                      |
+| [[Classroom]] - Grade 1       | Flag colors: Green for [[Nuance]]. Pink for [[Verra]]. Orange for [[Corarica]].                                                                                                                                               |
 

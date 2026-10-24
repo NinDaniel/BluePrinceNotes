@@ -9,7 +9,7 @@ exits: 2
 ---
 # Gameplay
 
-`Place notes on how to use this room for gameplay here`
+The correct sequence from left to right is: Monkey → Lion → Swan → Elephant → Penguin → Bear → Rabbit → Dog
 # Secrets
 
 `Place documents and clues here. Additionally, place any other secret items, puzzles, and the like in this section, too.`
